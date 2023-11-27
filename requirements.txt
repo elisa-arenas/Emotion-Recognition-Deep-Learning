@@ -1,0 +1,22 @@
+1. Install Python
+
+2. Install Tensorflow 2.0
+python -m pip install --upgrade pip
+pip install tensorflow
+pip install matplotlib
+
+3. Import Modules
+import pandas as pd
+import numpy as np
+import os
+import matplotlib.pyplot as plt
+import seaborn as sns
+import warnings
+from tqdm.notebook import tqdm
+%matplotlib inline
+import tensorflow as tf
+from keras.models import Sequential
+from keras.layers import Dense, Conv2D, Dropout, Flatten, MaxPooling2D
+from tensorflow.keras.utils import to_categorical
+from keras.preprocessing.image import load_img
+import random
