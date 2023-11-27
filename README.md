@@ -12,10 +12,5 @@ The expected outcome is to determine if the user is feeling any of these emotion
 
 Dataset: https://www.kaggle.com/aadityasinghal/facial-expression-dataset
 
-## Demonstration:
-[fill in later]
-
-## Data Analysis: 
-
 ## Contributers
 Elisa Arenas and Chandini Palem
